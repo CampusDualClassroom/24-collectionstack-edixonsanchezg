@@ -7,14 +7,14 @@ Por último se recorrerán los elementos de la pila uno a uno, y se eliminarán 
 ### Objetivos
 * Crear una pila y poblarla en el método ``createStack()``. Luego recorrerla mostrando cada elemento por pantalla y vaciarla en el método
   ``printAndEmptyStack()``.
-* Que la aplicación sea capaz de pasar los test de Maven.
+  * Que la aplicación sea capaz de pasar los test de Maven.
 
 ### Elementos de la pila
 Elementos de tipo String
 * Smith
-* Montessori
-* Peralta
-* House
+  * Montessori
+  * Peralta
+  * House
 
 ### Requisitos
 * No se pueden modificar en absoluto las clases de test.
